@@ -9,6 +9,7 @@ node_modules/
 # Next.js build and cache
 /.next/
 /out/
+/.firebase/
 build/
 dist/
 
