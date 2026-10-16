@@ -137,7 +137,7 @@ Clone the repository and run the development server locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Action-kamen257/portfolio.git
+git clone https://github.com/Action-kamen257/Action-kamen-s-portfolio-.git
 cd portfolio
 
 # 2. Install dependencies
