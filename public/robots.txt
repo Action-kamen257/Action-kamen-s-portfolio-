@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://tushar-portfolio-dev.web.app/sitemap.xml
